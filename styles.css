@@ -1,0 +1,38 @@
+body {
+  background-color: #121212;
+  color: #ddd;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#c-box{
+  margin: 2rem;
+  text-align: center;
+}
+
+button {
+  background-color: #27ae60;
+  color: inherit;
+  font-family: inherit;
+  padding: 10px;
+  border: none;
+  font-size: 18px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: block;
+  margin: 1rem auto;
+  transition: .2s;
+  border: 2px solid transparent;
+
+
+}
+
+button:hover {
+  background-color: transparent;
+border: 2px solid #444;
+}
+
+
+img {
+  max-width: 100%;
+}
